@@ -1,0 +1,80 @@
+body{
+    background-color: #ccc;
+} 
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 16px;
+} 
+p b{
+    font-size: 25px;
+    /* margin-top: 80px;
+    font-weight: 600 ; */
+} 
+p strong{
+    text-align: center;
+    font-weight: 800;
+    font-size: 35px;
+}
+/* p{
+    font-size: 16px;
+}  */
+p a{
+    /* font-size: 16px; */
+    text-decoration: none;
+}  
+p a:hover{
+    cursor: pointer;
+} 
+.form{
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    border: 1px solid rgb(141, 137, 137);
+    border-radius: 35px;
+    margin: auto ;
+}
+.form label{
+    float: left;
+    margin-left: 50px;
+    font-size: 18px;
+} 
+.form  a{
+    float: right;
+    text-decoration:none ;
+    margin-right: 50px;
+    font-size: 14PX;
+} 
+.form input{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
+.form button{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    background-color: #1642d1cb;
+    color: #fff;
+    font-size: 18PX;
+} 
+.form p{
+    font-size: 16px;
+} 
+.form .icon{
+    width: 350px;
+    height: 50px;
+    margin: auto;
+    border-radius: 5px;   
+}
+.form .icon a{
+    border: 1px solid rgb(211, 208, 184);
+    border-radius: 8px;
+    padding: 4px 30px;
+    margin: auto;
+    margin-right: 30px;    
+    color: #000;
+}
+
